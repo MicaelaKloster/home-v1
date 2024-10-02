@@ -7,6 +7,12 @@ module.exports = withMT({
       fontFamily: {
         roboto: ['Roboto', 'sans-serif'],
       },
+      colors: {
+        backgroundWhite: '#fafafa',
+        blueText: '#100e34',
+        redText: '#a20610',
+        grayText: '#EAEBF0',
+      },
     },
   },
   plugins: [],

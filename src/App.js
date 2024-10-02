@@ -1,3 +1,4 @@
+/* jshint ignore: start */
 import React from 'react';
 import { ThemeProvider } from "@material-tailwind/react";
 import Home from './components/Home';
