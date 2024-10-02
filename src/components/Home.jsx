@@ -18,6 +18,7 @@ const brandLogos = [
 ];
 
 export default function Home() {
+  console.log("Home renderizado");
   return (
     <div className="min-h-screen bg-backgroundWhite font-roboto">
       <div className="container mx-auto px-4 py-8">
